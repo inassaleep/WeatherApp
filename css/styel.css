@@ -1,0 +1,209 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.dom {
+
+    width: 100%;
+    height: 60vh;
+    background-image: url(../photo/banner.png);
+    background-image: url(../photo/pexels-shernon-hague-20150837.jpg.crdownload);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+
+
+}
+
+
+.span1 {
+    font-weight: bold;
+    font-size: 22px;
+    color: aliceblue;
+}
+
+.span2 {
+    font-weight: bold;
+    font-size: 16px;
+    color: aliceblue;
+}
+
+
+
+
+
+
+#navee {
+
+     
+    background-color: rgba(54, 136, 230, 0.923);
+    font-family: "Roboto", "Open Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.5;
+}
+
+
+.navbar-nav li a{
+    
+    font-size: 16PX;
+    font-weight: bold;
+    color: aliceblue;
+    text-decoration: none;
+}
+.navbar-nav li a:hover{
+color:#1e202b;
+}
+ 
+
+
+
+.find-location {
+    position: relative;
+    width: 100%;
+    padding: 50px 60px 50px 50px;
+
+
+}
+
+#search {
+    width: 100%;
+    background: #1e202b;
+    color: white;
+    outline: none;
+    border: none;
+    padding: 10px;
+    border-radius: 30px;
+    height: 60px;
+    padding: 20px 20px 20px;
+}
+
+#submit {
+    position: absolute;
+    top: 55px;
+    right: 70px;
+    border: none;
+   
+    background-color: rgba(54, 136, 230, 0.923);
+    padding: 10px 20px;
+    border-radius: 30px;
+    color: white;
+    width: 100px;
+}
+
+
+
+
+
+
+
+.fan {
+    
+    background-color: rgba(54, 136, 230, 0.923);
+   
+}
+
+.fan-1 p {
+    color: aliceblue;
+   
+    color: #bfc1c8;
+    font-family: "Roboto", "Open Sans", sans-serif;
+    margin-top: 0;
+}
+.icon{
+  
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 50%;
+    background: #1e202b;
+    
+    color: rgba(54, 136, 230, 0.923);
+    text-align: center;
+    line-height: 2;
+
+   
+}
+ 
+
+.icon:hover{
+    background:  aliceblue;
+  
+ color:black;
+  cursor: pointer;
+  
+  
+
+}
+
+.mass-fan{
+    background-color:  #bfc1c8;
+    width: 40%;
+    height: 20px;
+
+}
+.menu{
+   text-align: center;
+    
+    background-color:  rgba(111, 168, 233, 0.923);
+    width: 22%;
+    z-index: 1;
+    position: absolute;
+    border-radius: 10px;
+  
+    
+    
+}
+.menu-headr{
+    justify-content: space-between;
+    padding: 10px;
+    color: #191103;
+    font-family: "Roboto", "Open Sans", sans-serif;
+   
+    background-color:  rgba(54, 136, 230, 0.923);
+
+}
+.menu-icon{
+    display: flex;
+    justify-content: space-around;
+font-size: 40px;
+color: aliceblue;
+font-weight: bold;
+
+}
+.location{
+    color: #606577;  
+    padding: 5px 5px;
+    font-size: 20px;
+}
+.custom{
+    color:  blue;
+    font-size: 18px;
+     font-weight: bold;
+     
+}
+ .menu-fanily-icon{
+    color: aliceblue;
+ }
+ 
+.menu-2{
+  
+     
+    background-color:  rgba(111, 168, 233, 0.923);
+    width: 22%;
+   
+    z-index: 1;
+    position: absolute;
+    border-radius: 10px;
+    
+}
+.num-2{
+    font-size: 25px;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+ 
